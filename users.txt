@@ -2,4 +2,5 @@ bimbo; edu,dev,data
 banke; sudo
 adesua; dev,data
 stephen; testing
+steeze; edu,sudo,dev
 
