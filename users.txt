@@ -1,0 +1,5 @@
+bimbo; edu,dev,data
+banke; sudo
+adesua; dev,data
+stephen; testing
+
